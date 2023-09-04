@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Fizz Buzz\bin\Debug\net7.0\Fizz Buzz.exe
+C:\Users\danie\Documents\GitHub\Fizz Buzz\bin\Debug\net7.0\Fizz Buzz.deps.json
+C:\Users\danie\Documents\GitHub\Fizz Buzz\bin\Debug\net7.0\Fizz Buzz.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Fizz Buzz\bin\Debug\net7.0\Fizz Buzz.dll
+C:\Users\danie\Documents\GitHub\Fizz Buzz\bin\Debug\net7.0\Fizz Buzz.pdb
+C:\Users\danie\Documents\GitHub\Fizz Buzz\obj\Debug\net7.0\Fizz Buzz.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Fizz Buzz\obj\Debug\net7.0\Fizz Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Fizz Buzz\obj\Debug\net7.0\Fizz Buzz.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Fizz Buzz\obj\Debug\net7.0\Fizz Buzz.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Fizz Buzz\obj\Debug\net7.0\Fizz Buzz.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Fizz Buzz\obj\Debug\net7.0\Fizz Buzz.dll
+C:\Users\danie\Documents\GitHub\Fizz Buzz\obj\Debug\net7.0\refint\Fizz Buzz.dll
+C:\Users\danie\Documents\GitHub\Fizz Buzz\obj\Debug\net7.0\Fizz Buzz.pdb
+C:\Users\danie\Documents\GitHub\Fizz Buzz\obj\Debug\net7.0\Fizz Buzz.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Fizz Buzz\obj\Debug\net7.0\ref\Fizz Buzz.dll
